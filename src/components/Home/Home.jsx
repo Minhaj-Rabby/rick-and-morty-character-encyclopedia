@@ -10,7 +10,7 @@ const Home = () => {
 
 
   
-    let api = `https://rickandmortyapi.com/api/character/?page=1`
+    let api = `https://rickandmortyapi.com/api/character/?page=${pageNumber}`
 
     useEffect(() => {
         (async function () {

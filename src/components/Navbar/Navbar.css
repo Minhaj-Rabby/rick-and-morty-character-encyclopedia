@@ -15,3 +15,15 @@
 .nav-text:hover{
     color: orange;
 }
+
+
+@media only screen and (max-width: 768px) {
+    .nav-container{
+        display: flex;
+        justify-content: space-between;
+        padding:0 15px ;
+        /* background-color: rgb(241, 235, 227); */
+        background-color: #5f4c4c;
+        
+    }
+  }

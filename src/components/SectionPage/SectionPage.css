@@ -1,0 +1,20 @@
+.section-container{
+    margin-bottom: 20px;
+    text-align: center;
+}
+.color-btn{
+    background-color: blue;
+    color: white;
+}
+
+button{
+    width: 40px;
+    height: 30px;
+    margin: 2px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.side-btn{
+    border: 0;
+    background-color: white;
+}
