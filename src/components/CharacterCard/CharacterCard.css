@@ -1,0 +1,23 @@
+.card{
+    border: 2px solid black;
+    width:320px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    word-wrap: break-word;
+}
+
+.card img{
+    border-radius: 10px;
+    width:320px;
+}
+.card p{
+    font-size: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.card h2{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
