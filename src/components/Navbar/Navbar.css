@@ -1,0 +1,17 @@
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    padding:0 50px ;
+    /* background-color: rgb(241, 235, 227); */
+    background-color: #5f4c4c;
+    
+}
+
+.nav-text{
+    text-decoration: none;
+    color: white;
+}
+
+.nav-text:hover{
+    color: orange;
+}
