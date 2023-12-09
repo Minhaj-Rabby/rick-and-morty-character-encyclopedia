@@ -21,3 +21,15 @@
     margin-top: 5px;
     margin-bottom: 5px;
 }
+
+.fav-btn{
+    width: 100%;
+}
+.heart-black{
+    color: black;
+}
+
+.heart-red{
+    color: red;
+}
+
